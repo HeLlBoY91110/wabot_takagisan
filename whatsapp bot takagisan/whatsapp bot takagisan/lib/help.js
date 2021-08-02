@@ -11,7 +11,7 @@ function help( pushname ) {
 ╿
 ╿➵ *BOT_Takagisan* 
 ╿➵ *VERS.5.0*
-╿➵ *Owner Bot:* wa.me/6283191735552
+╿➵ *Owner Bot:* wa.me/919439773280
 ╿
 ╿➪〘 ⌨️Bot_Command⌨️ 〙
 ╿➵ *${prefix}ownerbot*
