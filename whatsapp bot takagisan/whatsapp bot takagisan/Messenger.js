@@ -69,7 +69,7 @@ module.exports = Messenger = async (takagisan, message) => {
         const groupMembers = isGroupMsg ? await takagisan.getGroupMembersId(groupId) : ''
         const isGroupAdmins = isGroupMsg ? groupAdmins.includes(sender.id) : false
         const isBotGroupAdmins = isGroupMsg ? groupAdmins.includes(botNumber + '@c.us') : false
-        const ownerNumber = ["6283191735552@c.us","55xxxxx"] // replace with your whatsapp number
+        const ownerNumber = ["919439773280@c.us"] // replace with your whatsapp number
         const isOwner = ownerNumber.includes(sender.id)
         const isBlocked = blockNumber.includes(sender.id)
         const isPremium = isGroupMsg ? premium_.includes(chat.id) : false
